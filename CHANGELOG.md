@@ -1,5 +1,13 @@
 # Changelog
 
+## [1.43.1](https://github.com/googleworkspace/apps-script-oauth2/compare/v1.43.0...v1.43.1) (2023-03-16)
+
+
+### Bug Fixes
+
+* **basecamp:** type parameter ([#427](https://github.com/googleworkspace/apps-script-oauth2/issues/427)) ([9499dba](https://github.com/googleworkspace/apps-script-oauth2/commit/9499dba62922538cb65f28cdfbefa5848e9aaa09))
+* Dropbox sample not getting refresh token ([#435](https://github.com/googleworkspace/apps-script-oauth2/issues/435)) ([91d7aa3](https://github.com/googleworkspace/apps-script-oauth2/commit/91d7aa320dd15760417c43628944b5b5b8cf0778))
+
 ## [1.43.0](https://github.com/googleworkspace/apps-script-oauth2/compare/v1.42.1...v1.43.0) (2022-12-01)
 
 
